@@ -4,6 +4,9 @@ Parsimonious Network based on Fuzzy Inference System (PANFIS) for Time Series Fe
 # Abstract
 In recent years, the utilization of rotating parts, e.g. bearings and gears, has been continuously supporting the manufacturing line to produce consistent output quality. Due to their critical role, the breakdown of these components might significantly impact the production rate. A proper condition based monitoring (CBM) is among a few ways to maintain and monitor the rotating systems. Prognosis, as one of the major tasks in CBM that predicts and estimates the remaining useful life of the machine, has attracted significant interest in decades. This paper presents a literature review on prognosis approaches from published papers in the last decade. The prognostic approaches are described comprehensively to provide a better idea on how to select an appropriate prognosis method for specific needs. An advanced predictive analytics, namely Parsimonious Network Based on Fuzzy Inference System (PANFIS), was proposed and tested into the low speed slew bearing data. PANFIS differs itself from conventional prognostic approaches in which it supports for online lifelong prognostics without the requirement of retraining or reconfiguration phase. The method is applied to normal-to-failure bearing vibration data collected for 139 days and to predict the time-domain features of vibration slew bearing signals. The performance of the proposed method is compared to some established methods such as ANFIS, eTS, and Simp_eTS. From the results, it is suggested that PANFIS offers outstanding performance compared to those of other methods.
 
+# Paper
+https://www.researchgate.net/publication/329750536_Parsimonious_Network_based_on_Fuzzy_Inference_System_PANFIS_for_Time_Series_Feature_Prediction_of_Low_Speed_Slew_Bearing_Prognosis
+
 # Implementation details
 Bearing Data Structure
 
